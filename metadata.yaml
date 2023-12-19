@@ -1,0 +1,36 @@
+_repo: The-golden-pennies-and-other-stories_72154
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leslie, Madeline
+    aliases:
+    - Aunt Hattie
+    - Baker, Harriette Newell Woods
+    - Hattie, Aunt
+    birthdate: 1815
+    deathdate: 1893
+    gutenberg_agent_id: '31136'
+    url: http://www.gutenberg.org/2009/agents/31136
+    wikipedia: https://en.wikipedia.org/wiki/Harriette_Newell_Woods_Baker
+description: ''
+gutenberg_issued: '2023-11-17'
+identifiers:
+  gutenberg: '72154'
+language: en
+pgterms:marc905: 20231115133615leslie
+pgterms:marc906: '1872'
+pgterms:marc907: US
+publication_note: '  $aBoston :$bHenry A. Young and Co., $c1872.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: The golden pennies -- Old Tom, the cat -- How my pigeon helped me
+  to get my lesson -- It's very hard -- The mother's secret -- Little Willie -- Robert
+  and his dog -- The long-tailed monkeys, or "Help one another!" -- Henry asking a
+  blessing -- Selfish Johnnie -- A little hero -- Good for evil.
+title: The golden pennies, and other stories
+url: http://www.gutenberg.org/ebooks/72154
